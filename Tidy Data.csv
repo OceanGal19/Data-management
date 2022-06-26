@@ -1,0 +1,106 @@
+"SiteID" "Sediment Type" "Species" "Type" "Biome" "Height x longest canopy axis in 1994 (cm^2)" "Standard Deviation of area in 1994 (cm^2)" "Number of individuals in 1994" "Height x longest canopy axis in 2008 (cm^2)" "Standard Deviation of area in 2008 (cm^2)" "Number of individuals in 2008" "Height x longest canopy axis in 2012 (cm^2)" "Standard Deviation of area in 2012 (cm^2)" "Number of individuals in 2012"
+"1" "2a" "shale" "Protea lorifolia" "Protea" "Fynbos" 0 0 0 0 0 0 0 0 0
+"2" "2b" "sandstone" "Protea lorifolia" "Protea" "Fynbos" 1177 602 43 22500 12990 3 32000 0 1
+"3" "3" "africa" "Protea lorifolia" "Protea" "Fynbos" 762 NA 28 0 0 0 0 0 0
+"4" "4a" "shale" "Protea lorifolia" "Protea" "Fynbos" 783 272 39 8150 2319 8 9900 0 1
+"5" "4b" "sandstone" "Protea lorifolia" "Protea" "Fynbos" 549 221 30 0 0 0 0 0 0
+"6" "5a" "shale" "Protea lorifolia" "Protea" "Fynbos" 800 304 41 22750 2552 20 1800 0 6
+"7" "5b" "sandstone" "Protea lorifolia" "Protea" "Fynbos" 316 145 53 19042 9319 24 662 320 6
+"8" "2a" "shale" "Protea neriifolia" "Protea" "Fynbos" 87 17 3 0 0 0 0 0 0
+"9" "2b" "sandstone" "Protea neriifolia" "Protea" "Fynbos" 2897 1531 57 0 0 0 0 0 0
+"10" "3" "africa" "Protea neriifolia" "Protea" "Fynbos" 1983 NA 64 0 0 0 0 0 0
+"11" "4a" "shale" "Protea neriifolia" "Protea" "Fynbos" 1878 827 76 7558 3416 24 0 0 0
+"12" "4b" "sandstone" "Protea neriifolia" "Protea" "Fynbos" 1353 657 73 0 0 0 0 0 0
+"13" "5a" "shale" "Protea neriifolia" "Protea" "Fynbos" 2191 860 73 29000 15982 22 4435 1430 45
+"14" "5b" "sandstone" "Protea neriifolia" "Protea" "Fynbos" 720 343 75 23108 3604 37 2238 763 45
+"15" "2a" "shale" "Mastersiella purpurea" "Restio" "Fynbos" 0 0 0 0 0 0 0 0 0
+"16" "2b" "sandstone" "Mastersiella purpurea" "Restio" "Fynbos" 0 0 0 0 0 0 0 0 0
+"17" "3" "africa" "Mastersiella purpurea" "Restio" "Fynbos" 46 NA 5 0 0 0 0 0 0
+"18" "4a" "shale" "Mastersiella purpurea" "Restio" "Fynbos" 152 81 8 0 0 0 0 0 0
+"19" "4b" "sandstone" "Mastersiella purpurea" "Restio" "Fynbos" 230 186 12 0 0 0 0 0 0
+"20" "5a" "shale" "Mastersiella purpurea" "Restio" "Fynbos" 153 95 10 0 0 0 0 0 0
+"21" "5b" "sandstone" "Mastersiella purpurea" "Restio" "Fynbos" 145 85 17 0 0 0 0 0 0
+"22" "2a" "shale" "Hypodiscus aristatus" "Restio" "Fynbos" 0 0 0 0 0 0 0 0 0
+"23" "2b" "sandstone" "Hypodiscus aristatus" "Restio" "Fynbos" 119 42 2 0 0 0 0 0 0
+"24" "3" "africa" "Hypodiscus aristatus" "Restio" "Fynbos" 0 0 0 0 0 0 0 0 0
+"25" "4a" "shale" "Hypodiscus aristatus" "Restio" "Fynbos" 128 59 8 NA NA NA 0 0 0
+"26" "4b" "sandstone" "Hypodiscus aristatus" "Restio" "Fynbos" 231 114 7 NA NA NA 0 0 0
+"27" "5a" "shale" "Hypodiscus aristatus" "Restio" "Fynbos" 88 31 3 NA NA NA 6875 2223 4
+"28" "5b" "sandstone" "Hypodiscus aristatus" "Restio" "Fynbos" 85 33 7 NA NA NA 4000 2236 5
+"29" "2a" "shale" "Metalasia massonii" "Ericoid" "Fynbos" 1160 152 2 0 0 0 0 0 0
+"30" "2b" "sandstone" "Metalasia massonii" "Ericoid" "Fynbos" 1083 678 7 0 0 0 0 0 0
+"31" "3" "africa" "Metalasia massonii" "Ericoid" "Fynbos" 1696 NA 8 0 0 0 0 0 0
+"32" "4a" "shale" "Metalasia massonii" "Ericoid" "Fynbos" 2826 809 13 0 0 0 0 0 0
+"33" "4b" "sandstone" "Metalasia massonii" "Ericoid" "Fynbos" 2720 1018 7 0 0 0 4200 0 1
+"34" "5a" "shale" "Metalasia massonii" "Ericoid" "Fynbos" 2512 622 7 0 0 0 0 0 0
+"35" "5b" "sandstone" "Metalasia massonii" "Ericoid" "Fynbos" 468 192 3 0 0 0 0 0 0
+"36" "2a" "shale" "Phylica lachnaeoides" "Ericoid" "Fynbos" 374 0 1 0 0 0 0 0 0
+"37" "2b" "sandstone" "Phylica lachnaeoides" "Ericoid" "Fynbos" 3313 1870 10 NA NA NA 0 0 0
+"38" "3" "africa" "Phylica lachnaeoides" "Ericoid" "Fynbos" 3350 NA 8 NA NA NA 0 0 0
+"39" "4a" "shale" "Phylica lachnaeoides" "Ericoid" "Fynbos" 1584 701 13 NA NA NA 866 311 22
+"40" "4b" "sandstone" "Phylica lachnaeoides" "Ericoid" "Fynbos" 1076 849 12 NA NA NA 0 0 0
+"41" "5a" "shale" "Phylica lachnaeoides" "Ericoid" "Fynbos" 2099 660 17 NA NA NA 6091 1663 34
+"42" "5b" "sandstone" "Phylica lachnaeoides" "Ericoid" "Fynbos" 2362 999 15 NA NA NA 0 0 0
+"43" "2a" "shale" "Hermannia salvifolia" "Fynbos pioneer" "Fynbos" 3210 2871 10 NA NA NA 0 0 0
+"44" "2b" "sandstone" "Hermannia salvifolia" "Fynbos pioneer" "Fynbos" 2213 1157 7 NA NA NA 0 0 0
+"45" "3" "africa" "Hermannia salvifolia" "Fynbos pioneer" "Fynbos" 6759 NA 2 NA NA NA 0 0 0
+"46" "4a" "shale" "Hermannia salvifolia" "Fynbos pioneer" "Fynbos" 5407 1364 8 NA NA NA 1243 493 78
+"47" "4b" "sandstone" "Hermannia salvifolia" "Fynbos pioneer" "Fynbos" 3610 2101 8 NA NA NA 0 0 0
+"48" "5a" "shale" "Hermannia salvifolia" "Fynbos pioneer" "Fynbos" 5657 1550 10 NA NA NA 0 0 0
+"49" "5b" "sandstone" "Hermannia salvifolia" "Fynbos pioneer" "Fynbos" 1427 1530 17 NA NA NA 0 0 0
+"50" "2a" "shale" "Pentameris eriostoma" "C3 grass" "Fynbos" 418 137 4 NA NA NA 0 0 0
+"51" "2b" "sandstone" "Pentameris eriostoma" "C3 grass" "Fynbos" 999 250 7 NA NA NA 3425 884 2
+"52" "3" "africa" "Pentameris eriostoma" "C3 grass" "Fynbos" 578 NA 6 NA NA NA 6320 5931 5
+"53" "4a" "shale" "Pentameris eriostoma" "C3 grass" "Fynbos" 571 284 10 NA NA NA 2914 1045 7
+"54" "4b" "sandstone" "Pentameris eriostoma" "C3 grass" "Fynbos" 437 314 10 NA NA NA 1853 1025 8
+"55" "5a" "shale" "Pentameris eriostoma" "C3 grass" "Fynbos" 964 650 8 NA NA NA 3500 1453 3
+"56" "5b" "sandstone" "Pentameris eriostoma" "C3 grass" "Fynbos" 240 161 6 NA NA NA 2500 0 1
+"57" "2a" "shale" "Merxmuellera disticha" "C3 grass" "Fynbos" 177 77 15 NA NA NA 1600 566 2
+"58" "2b" "sandstone" "Merxmuellera disticha" "C3 grass" "Fynbos" 32 19 11 NA NA NA 0 0 0
+"59" "3" "africa" "Merxmuellera disticha" "C3 grass" "Fynbos" 126 NA 11 NA NA NA 1000 0 1
+"60" "4a" "shale" "Merxmuellera disticha" "C3 grass" "Fynbos" 123 79 19 NA NA NA 1060 918 10
+"61" "4b" "sandstone" "Merxmuellera disticha" "C3 grass" "Fynbos" 108 55 19 NA NA NA 1688 751 12
+"62" "5a" "shale" "Merxmuellera disticha" "C3 grass" "Fynbos" 175 56 19 NA NA NA 1446 307 13
+"63" "5b" "sandstone" "Merxmuellera disticha" "C3 grass" "Fynbos" 73 24 20 NA NA NA 1260 407 15
+"64" "2a" "shale" "Themeda triandra" "C4 grass" "Mixed" 738 351 9 NA NA NA NA NA NA
+"65" "2b" "sandstone" "Themeda triandra" "C4 grass" "Mixed" 317 135 5 NA NA NA NA NA NA
+"66" "3" "africa" "Themeda triandra" "C4 grass" "Mixed" 1475 NA 4 NA NA NA NA NA NA
+"67" "4a" "shale" "Themeda triandra" "C4 grass" "Mixed" 1114 452 6 NA NA NA NA NA NA
+"68" "4b" "sandstone" "Themeda triandra" "C4 grass" "Mixed" 495 88 5 NA NA NA NA NA NA
+"69" "5a" "shale" "Themeda triandra" "C4 grass" "Mixed" 618 304 4 NA NA NA NA NA NA
+"70" "5b" "sandstone" "Themeda triandra" "C4 grass" "Mixed" 257 269 8 NA NA NA NA NA NA
+"71" "2a" "shale" "Schotia latifolia" "Tree" "Thicket" 119 131 22 NA NA NA 1708 1785 10
+"72" "2b" "sandstone" "Schotia latifolia" "Tree" "Thicket" 263 315 24 NA NA NA 0 0 0
+"73" "3" "africa" "Schotia latifolia" "Tree" "Thicket" 1052 NA 22 NA NA NA 1625 1370 25
+"74" "4a" "shale" "Schotia latifolia" "Tree" "Thicket" 128 71 18 NA NA NA 494 717 18
+"75" "4b" "sandstone" "Schotia latifolia" "Tree" "Thicket" 96 39 18 NA NA NA 112 84.7 5
+"76" "5a" "shale" "Schotia latifolia" "Tree" "Thicket" 231 211 17 NA NA NA 3742 2665 19
+"77" "5b" "sandstone" "Schotia latifolia" "Tree" "Thicket" 39 27 20 NA NA NA 0 0 0
+"78" "2a" "shale" "Smellophyllum capense" "Tree" "Thicket" 77 0 1 NA NA NA 0 0 0
+"79" "2b" "sandstone" "Smellophyllum capense" "Tree" "Thicket" 176 102 10 NA NA NA 0 0 0
+"80" "3" "africa" "Smellophyllum capense" "Tree" "Thicket" 97 NA 7 NA NA NA 0 0 0
+"81" "4a" "shale" "Smellophyllum capense" "Tree" "Thicket" 88 43 13 NA NA NA 161 91 2
+"82" "4b" "sandstone" "Smellophyllum capense" "Tree" "Thicket" 67 41 14 NA NA NA 0 0 0
+"83" "5a" "shale" "Smellophyllum capense" "Tree" "Thicket" 50 11 8 NA NA NA 1000 0 1
+"84" "5b" "sandstone" "Smellophyllum capense" "Tree" "Thicket" 39 24 15 NA NA NA 0 0 0
+"85" "2a" "shale" "Acacia karoo" "Tree" "Thicket" 105 98 57 NA NA NA 41080 36973 5
+"86" "2b" "sandstone" "Acacia karoo" "Tree" "Thicket" 242 254 39 NA NA NA 0 0 0
+"87" "3" "africa" "Acacia karoo" "Tree" "Thicket" 605 NA 50 NA NA NA 3825 3190 23
+"88" "4a" "shale" "Acacia karoo" "Tree" "Thicket" 187 190 66 NA NA NA 1142 2019 30
+"89" "4b" "sandstone" "Acacia karoo" "Tree" "Thicket" 59 61 66 NA NA NA 300 0 1
+"90" "5a" "shale" "Acacia karoo" "Tree" "Thicket" 263 264 51 NA NA NA 2859 3942 20
+"91" "5b" "sandstone" "Acacia karoo" "Tree" "Thicket" 8 8 49 NA NA NA 0 0 0
+"92" "2a" "shale" "Crassula ovata" "Succulent" "Thicket" 84 56 17 NA NA NA 10450 0 1
+"93" "2b" "sandstone" "Crassula ovata" "Succulent" "Thicket" 76 39 17 NA NA NA 1718 625 4
+"94" "3" "africa" "Crassula ovata" "Succulent" "Thicket" 75 NA 13 NA NA NA 0 0 0
+"95" "4a" "shale" "Crassula ovata" "Succulent" "Thicket" 86 49 19 NA NA NA 0 0 0
+"96" "4b" "sandstone" "Crassula ovata" "Succulent" "Thicket" 108 53 17 NA NA NA 0 0 0
+"97" "5a" "shale" "Crassula ovata" "Succulent" "Thicket" 165 122 15 NA NA NA 0 0 0
+"98" "5b" "sandstone" "Crassula ovata" "Succulent" "Thicket" 49 22 18 NA NA NA 0 0 0
+"99" "2a" "shale" "Portulacaria afra" "Succulent" "Thicket" 308 375 19 NA NA NA 3701 3778 10
+"100" "2b" "sandstone" "Portulacaria afra" "Succulent" "Thicket" 87 69 19 NA NA NA 556 556 19
+"101" "3" "africa" "Portulacaria afra" "Succulent" "Thicket" 95 NA 20 NA NA NA 563 685 3
+"102" "4a" "shale" "Portulacaria afra" "Succulent" "Thicket" 22 14 20 NA NA NA 0 0 0
+"103" "4b" "sandstone" "Portulacaria afra" "Succulent" "Thicket" 41 41 19 NA NA NA 0 0 0
+"104" "5a" "shale" "Portulacaria afra" "Succulent" "Thicket" 34 40 17 NA NA NA 0 0 0
+"105" "5b" "sandstone" "Portulacaria afra" "Succulent" "Thicket" 15 10 16 NA NA NA 0 0 0
